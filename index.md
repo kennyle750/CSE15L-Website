@@ -1,4 +1,3 @@
-# Lab Report #1 for Week 2
 # Lab Reports CSE 15L 
 <br/> **Name:** 
 Kenny Le
@@ -11,5 +10,5 @@ CSE 15L
 ---
 <br/> **Sumamary:**
 For week 2 we are to create a tutorial on how to access ssh 
-<br/> [Lab report for week 2]()
+<br/> [Lab report for week 2](https://redagent750.github.io/lab-report-1-week-2.md/week-2-lab-report.html)
 ---
