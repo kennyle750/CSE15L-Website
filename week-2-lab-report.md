@@ -29,3 +29,8 @@ So in this week's lab report, you'll be learning about remote access and how to 
 ## **Step 4**
 * Great now that you're logged into your remote account, here are some commands for you to try!
 * pwd - typing this into the terminal while logged in will show you your current work directory.
+* You can find a cheat sheet full of commands [here](https://www.cmu.edu/computing/services/comm-collab/collaboration/afs/how-to/unix-commands.pdf)
+---
+
+## **Step 5**
+* Now that you got the gist of what you can type into the terminal, lets try moving files from your local computer into your moremote 
