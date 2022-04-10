@@ -14,9 +14,10 @@ So in this week's lab report, you'll be learning about remote access and how to 
 
 ## **Step 2**
 * Once you have VSCode installed and opened up, on the top left of your screen you will see Terminal, click on it. Then click New Terminal or use the shortcut CRTL+SHIFT+'
-
 ![Image](doanhcringe.PNG)
 ---
+
+<br/>
 
 ## **Step 3**
 * Now that you have VSCode and your terminal, what you want to do now is type in **ssh cs15lsp22(UserName)@ieng6.ucsd.edu** 
