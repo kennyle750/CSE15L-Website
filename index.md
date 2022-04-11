@@ -5,7 +5,7 @@ Kenny Le
 CSE 15L
 <br/>
 ---
----
+
 
 ## Week 2 Lab report
 <br/> [Link to Week 2 Lab Report](https://redagent750.github.io/lab-report-1-week-2.md/week-2-lab-report.html)
