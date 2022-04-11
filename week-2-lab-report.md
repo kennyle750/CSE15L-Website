@@ -8,7 +8,7 @@ So in this week's lab report, you'll be learning about remote access and how to 
 
 ## **Step 1**
 * Download [VSCode](https://code.visualstudio.com/Download), this is what we will be using to remotely log into our accounts for this class
-![Image](doanhcringe.PNG)
+![Image](vscode.png)
 ---
 <br/>
 
