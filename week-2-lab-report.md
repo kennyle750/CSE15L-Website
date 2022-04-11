@@ -13,7 +13,7 @@ So in this week's lab report, you'll be learning about remote access and how to 
 <br/>
 
 ## **Step 2**
-* Once you have VSCode installed and opened up, on the top left of your screen you will see Terminal, click on it. Then click New Terminal or use the shortcut CRTL+SHIFT+'
+* Once you have VSCode installed and opened up, on the top left of your screen you will see Terminal, click on it. Then click New Terminal or use the shortcut CTRL+SHIFT+'
 ![Image](topright.png)
 ---
 
