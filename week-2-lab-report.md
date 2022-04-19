@@ -53,7 +53,15 @@ So in this week's lab report, you'll be learning about remote access and how to 
 ![Image](assciart.png)
 
 ## **Step 7**
-* Last and final step, you now want to run the scp command by using **cs15lsp22(UserName)@ieng6.ucsd.edu~/.ssh/authorized_keys**
+* You now want to run the scp command by using **cs15lsp22(UserName)@ieng6.ucsd.edu~/.ssh/authorized_keys**
 * Now you should be able to just log into your remote account without typing in your password everytime.
 
 ![Image](logingin.png)
+
+## **Step 8**
+* Last and final step to make you more efficient to remotely log in faster.
+* You can list the UNIX commands you want to use in quote " " as you log in.
+* Format would be **ssh cs15lsp22(UserName)@ieng6.ucsd.edu "(Whatever command you want inside"**
+* Below is an example with using ls as the command you want to use while logging in, you're not limited to just ls. So try it out and see if other commands work too!
+
+![Image](![Image](sshcd.png)
