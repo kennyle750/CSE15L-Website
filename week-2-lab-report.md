@@ -64,4 +64,4 @@ So in this week's lab report, you'll be learning about remote access and how to 
 * Format would be **ssh cs15lsp22(UserName)@ieng6.ucsd.edu "(Whatever command you want inside"**
 * Below is an example with using ls as the command you want to use while logging in, you're not limited to just ls. So try it out and see if other commands work too!
 
-![Image](![Image](sshcd.png)
+![Image](sshcd.png)
