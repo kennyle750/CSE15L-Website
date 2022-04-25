@@ -12,7 +12,7 @@ CSE 15L
 
 ---
 ## Week 4 Lab report
-<br/> [Link to Week 4 Lab Report](http://google.com/)
+<br/> [Link to Week 4 Lab Report](https://redagent750.github.io/lab-report-1-week-2.md/week-4-lab-report.html)
 
 ---
 
