@@ -24,4 +24,24 @@
 ## Error #2
 * For the second error, when a test file is read for websites only, it also return images as if it was reading websites.
 * Below is the code change made in order to have images not be read as websites since both formats are similar in nature.
+* Link to the input test file that was reffered off of to fix the problem. [Link to test file](https://github.com/redagent750/markdown-parser/blob/main/test-file4.md)
+<br/>
 
+![Image](codefix2.png)
+
+* Below is the error before the code was fixed, keep in mind that it runs but doesn't give the right output.
+<br/>
+
+![Image](error2terminal.png)
+
+* Below is the terminal after fixing the issue of returning the correct output for images.
+<br/>
+
+![Image](testfile4fixed.png)
+
+* The symptom is that images and sites are read the same since they both have similar formats, the only difference is that images have an ! in front of their format. The bug in this case would be how the code doesn't account for what to differentiate as a site and an image. This would cause the program to mistaken an image as a site and return it's source code as if it was a site, which it shouldn't be doing.
+
+---
+
+## Error #3
+* For the third error that was encountered, 
