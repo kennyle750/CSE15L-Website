@@ -44,4 +44,22 @@
 ---
 
 ## Error #3
-* For the third error that was encountered, 
+* For the third error that was encountered, it would return the site even if the brackets and parantheses aren't on the same line. It shouldn't be able to return such site as they're not formatted correctly together.
+* Below is the code change made in order to only return correctly formatted sites in the test file. 
+* Link to the input test file that was used for this error. 
+[Link to test file](https://github.com/redagent750/markdown-parser/blob/main/test-file5.md)
+<br/>
+
+![Image](errorcodechange3.png)
+
+* Below is the error before the code was fixed, it returns the characters within the parentheses in the test file. It is not suppose to return it as it was not correctly formatted in the file.
+<br/>
+
+![Image](errortest3.png)
+
+* Below is the terminal after fixing the issue of returning the correct output for images.
+<br/>
+
+![image](error3solved.png)
+
+* The symptom was that when the code was trying to find open brackets and closed brackets within the code, it doesn't take into account where those characters are placed so it just returns whatever is in parentheses when it shouldn't be the case. It should only return the site if the closing bracket are followed by an opening parenthese. The bug in this case would be how the code was not able to differentiate which site is correctly formatted to be returned. 
