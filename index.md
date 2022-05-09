@@ -16,3 +16,5 @@ CSE 15L
 
 ---
 
+## Week 6 Lab report
+<br/> [Link to Week 6 Lab Report](https://redagent750.github.io/CSE15L-Website/week-6-lab-report.html)
