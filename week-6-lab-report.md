@@ -22,6 +22,7 @@
 * After you have edit the config file using Notepad for windows or in VSCode for Linux, save it and open your terminal.
 * Now all you have to do njow to log into your remote machine is just type in **ssh ieng6**, **ieng6** being your host.
 * Now you can remotely log in faster by just tying in the host name instead of the entire username of yours!
+* Below is what it looks like by just logging in with thos shortcut.
 ![Image](sshlogin.png)
 
 ---
