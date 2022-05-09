@@ -15,8 +15,16 @@
 ![Image](configpic.png)
 ---
 
+
+
+
+
+
+
 ## Setup Github Access from Ieng6
 
 ---
 
 ## Copy whole directories with scp -r
+* scp -r is a command that lets you copy files from your local machine into your remote machine.
+* 
