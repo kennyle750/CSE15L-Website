@@ -38,8 +38,10 @@
 * Then what you want to do now is view the contents within that key file. Copy it. Here is what it suppose to look like when you view the file.
 * Use the command to view the file so you can copy it.
 <br/>**cat id_rsa.pub**
+
 <br/>![Image](keygencopy.png)
 * Then go onto github, then settings, and then ssh. Add whatever the contents of the file on the key file you just created onto github.
+
 <br/>![Image](Githubsshkeyadded.png)
 * After you add this ssh key into github run these two commands below.
 <br/>**eval "$(ssh-agent -s)"**
@@ -47,8 +49,18 @@
 * Now that is all, you should be able to use git commands using this ssh key.
 * To add any files of your choice, just run this command.
 <br/>**git add (FileName)**
-* To push to github, you want to use **git push origin main**, this would then update the commit you created on your local machine into the origin on github.
 * To commit to github, you would use **git commit -m (SummaryCommit)**. The summaryCommit is just comments of what you updated when you commit the new edits to github. Can be literally anything.
+
+<br/>![Image](gitcommit.png)
+
+* Before you would commit it into github remotely, run these lines below to ensure that it is being commited to the correct directory.
+<br/>git remote add origin (Your ssh github directory link)
+<br/>git remote set-url origin (Your ssh github directory link)
+
+* To push to github, you want to use **git push**, this would then update the commit you created on your local machine into the origin on github.
+
+<br/>![Image](gitpush.png)
+
 
 ---
 
