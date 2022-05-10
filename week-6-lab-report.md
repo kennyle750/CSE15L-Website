@@ -72,3 +72,9 @@
 <br/>![Image](downloads.png)
 * Now you should be able to see these files within your remote machine when you use **ls** 
 <br/>![Image](download2.png)
+
+* Now open up your directory that you want to test, make sure there are test files to test your method.
+* First, run file that is going to be ran by typing **javac (nameOfFile.java)**
+* Then, you want to run **java (nameOfFile) (NameOfTestFile.md)**
+* It will then compile the method you want to run and use another file to test it out to return results.
+<br/>![Image](test.png)
