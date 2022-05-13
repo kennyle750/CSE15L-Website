@@ -58,9 +58,9 @@
 <br/>git remote set-url origin (Your ssh github directory link)
 
 * To push to github, you want to use **git push**, this would then update the commit you created on your local machine into the origin on github.
-
+* Below are images of me running the command that would let me copy repositories into my machine.
+<br/>![Image](scpcommand.png)
 <br/>![Image](gitpush.png)
-
 
 ---
 
