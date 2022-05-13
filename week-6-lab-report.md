@@ -41,6 +41,10 @@
 
 <br/>![Image](keygencopy.png)
 * Then go onto github, then settings, and then ssh. Add whatever the contents of the file on the key file you just created onto github.
+* The SSH key is stored on github inside my **SSH and GPG keys** as shown below.
+
+<br/>![Image](sshkeystored.png)
+* Below is the image of the key that I just added.
 
 <br/>![Image](Githubsshkeyadded.png)
 * After you add this ssh key into github run these two commands below.
@@ -58,9 +62,13 @@
 <br/>git remote set-url origin (Your ssh github directory link)
 
 * To push to github, you want to use **git push**, this would then update the commit you created on your local machine into the origin on github.
-* Below are images of me running the command that would let me copy repositories into my machine.
-<br/>![Image](scpcommand.png)
+
 <br/>![Image](gitpush.png)
+
+* Below is the link to the resulting commit where file.txt was added.
+
+[Link to test commit](https://github.com/redagent750/markdown-parser/commit/0b35b1851e08b2c9e9e083a23aa29e107a09f2ec)
+
 
 ---
 
