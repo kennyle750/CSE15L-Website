@@ -67,10 +67,10 @@
 ## Copy whole directories with scp -r
 * scp -r is a command that lets you copy files from your local machine into your remote machine.
 * So in order for you to copy files you want use this command outline on your local machine.
-<br/> **scp -r . cs15lsp22<user>@ieng6.ucsd.edu:~/(Whatever files you want to copy over)**
+<br/> **scp -r . cs15lsp22(user)@ieng6.ucsd.edu:~/(Whatever files you want to copy over)**
 * Once this is done you should get something similar ran in your terminal like this.
 <br/>![Image](downloads.png)
-* Now you should be able to see these files within your remote machine when you use **ls** 
+* Now you should be able to see these files within your remote machine when you use **ls**
 <br/>![Image](download2.png)
 
 * Now open up your directory that you want to test, make sure there are test files to test your method.
