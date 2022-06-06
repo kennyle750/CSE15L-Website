@@ -23,3 +23,8 @@ CSE 15L
 
 ## Week 8 Lab report
 <br/> [Link to Week 8 Lab Report](https://redagent750.github.io/CSE15L-Website/week-8-lab-report.html)
+
+---
+
+## Week 10 Lab report
+<br/>[Link to Week 10 Lab Report](https://redagent750.github.io/CSE15L-Website/week-10-lab-report.html)
